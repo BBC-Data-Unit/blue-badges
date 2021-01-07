@@ -2,7 +2,7 @@
 
 ![](https://ichef.bbci.co.uk/news/976/cpsprodpb/11E91/production/_116216337_blue_badge.png)
 
-In January 2021, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-55221474) people with non-visible disabilities such as autism or Parkinson's disease faced what a charity called a "shocking disparity" when applying for a blue badge parking permit.
+In January 2021, the BBC Shared Data Unit worked with the Local Democracy Reporting Service to [report](https://www.bbc.co.uk/news/uk-55221474) people with non-visible disabilities such as autism or Parkinson's disease faced what a charity called a "shocking disparity" when applying for a blue badge parking permit.
 
 Scores of councils had lower approval rates for non-visible disabilities applications compared to those for physical impairments.
 
@@ -20,7 +20,7 @@ Applications for people with cognitive impairments were already considered in Sc
 
 ## Method
 
-We obtained Freedom of Information Act (FOI) responses from the 216 upper-tier councils across the UK via the WhatDoTheyKnow website.
+The BBC Shared Data Unit obtained Freedom of Information Act (FOI) responses from the 216 upper-tier councils across the UK via the WhatDoTheyKnow website.
 
 Of the 109 councils who gave full responses, eight out of 10 had higher approval rates for people with physical impairments. For ten of those councils, the difference was greater than 50 percentage points.
 
@@ -50,8 +50,9 @@ The data and background methodology released to partners are available here:
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership.
 Stories written by partners based on this research included:
 
+* Bracknell News: [Blue Badge disparity: Bracknell Forest has one of UK's highest rates](https://www.bracknellnews.co.uk/news/18993358.blue-badge-disparity-bracknell-forest-one-uks-highest-rates/) *7 January 2021*
 * Northern Echo: [Less blue badges for people with non-visible disabilities](https://www.thenorthernecho.co.uk/news/18990871.less-blue-badges-people-non-visible-disabilities/) *7 January 2021*
-
+* Wigan Today: [Wigan Council bucks trend on blue badges for non-visible disabilities](https://www.wigantoday.net/news/politics/wigan-council-bucks-trend-blue-badges-non-visible-disabilities-3088015) *7 January 2021*
 
 The story featured on BBC front, home and England pages. It was also used by BBC Somerset, BBC Radio Shropshire.
 
