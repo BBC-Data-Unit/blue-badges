@@ -53,8 +53,12 @@ Stories written by partners based on this research included:
 * Bracknell News: [Blue Badge disparity: Bracknell Forest has one of UK's highest rates](https://www.bracknellnews.co.uk/news/18993358.blue-badge-disparity-bracknell-forest-one-uks-highest-rates/) *7 January 2021*
 * Northern Echo: [Less blue badges for people with non-visible disabilities](https://www.thenorthernecho.co.uk/news/18990871.less-blue-badges-people-non-visible-disabilities/) *7 January 2021*
 * Wigan Today: [Wigan Council bucks trend on blue badges for non-visible disabilities](https://www.wigantoday.net/news/politics/wigan-council-bucks-trend-blue-badges-non-visible-disabilities-3088015) *7 January 2021*
+* ITV Tyne Tees: ['Postcode lottery' for blue badge applicants with non-visible disabilities](https://www.itv.com/news/tyne-tees/2021-01-07/postcode-lottery-for-blue-badge-applicants-with-non-visible-disabilities) *7 January 2021*
+* The Guildford Dragon: [No Visible Disability? Not Much Blue Badge Chance in Surrey](https://www.guildford-dragon.com/2021/01/07/no-visible-disability-not-much-blue-badge-chance-in-surrey/) *7 January 2021*
+* Yellow Advertiser: [Blue badge disparity for non visibly disabled in Havering](https://www.yellowad.co.uk/blue-badge-disparity-for-non-visibly-disabled-in-havering/) *7 January 2021*
+* Yorkshire Live: [Kirklees Council refused more than half Blue Badge requests from people with 'non-visible' disabilities](https://www.examinerlive.co.uk/news/west-yorkshire-news/kirklees-council-refused-more-half-19573298) *7 January 2021*
 
-The story featured on BBC front, home and England pages. It was also used by BBC North West Tonight, BBC East Midlands Today, BBC Somerset, BBC Radio Shropshire, BBC Radio York, BBC Radio Tees, BBC Radio Leicester, BBC Radio Sheffield, BBC Radio Berkshire, BBC Radio Manchester, BBC CWR and BBC Three Counties Radio.
+The story featured on BBC front, home and England pages. It was also used by BBC North West Tonight, BBC East Midlands Today, BBC Midlands Today, BBC Somerset, BBC Radio Shropshire, BBC Radio York, BBC Radio Tees, BBC Radio Leicester, BBC Radio Sheffield, BBC Radio Berkshire, BBC Radio Manchester, BBC CWR and BBC Three Counties Radio.
 
 ## Other usage
 
