@@ -54,7 +54,7 @@ Stories written by partners based on this research included:
 * Northern Echo: [Less blue badges for people with non-visible disabilities](https://www.thenorthernecho.co.uk/news/18990871.less-blue-badges-people-non-visible-disabilities/) *7 January 2021*
 * Wigan Today: [Wigan Council bucks trend on blue badges for non-visible disabilities](https://www.wigantoday.net/news/politics/wigan-council-bucks-trend-blue-badges-non-visible-disabilities-3088015) *7 January 2021*
 
-The story featured on BBC front, home and England pages. It was also used by BBC Somerset, BBC Radio Shropshire.
+The story featured on BBC front, home and England pages. It was also used by BBC North West Tonight, BBC East Midlands Today, BBC Somerset, BBC Radio Shropshire, BBC Radio York, BBC Radio Tees, BBC Radio Leicester, BBC Radio Sheffield, BBC Radio Berkshire, BBC Radio Manchester, BBC Three Counties Radio.
 
 ## Other usage
 
