@@ -10,6 +10,12 @@ Non-visible disability applications began in England in August 2019.
 
 The Department for Transport (DfT) said it would review their impact.
 
+James Taylor, from the disability charity Scope, said: "This new data shows a shocking disparity between the allocations of blue badges to people with invisible and visible impairments."
+
+The National Autistic Society said the results showed how important it was for councils to improve training to ensure staff understood when people should be entitled to a "lifeline" blue badge.
+
+The removal of accessible parking bays next to shops and amenities "overnight, without any consultation" to allow for social distancing during the Covid-19 pandemic had also had a "massive impact" on disabled people, Scope said.
+
 Applications for people with cognitive impairments were already considered in Scotland, Wales and Northern Ireland.
 
 ## Method
@@ -44,7 +50,8 @@ The data and background methodology released to partners are available here:
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership.
 Stories written by partners based on this research included:
 
-* 
+* Northern Echo: [Less blue badges for people with non-visible disabilities](https://www.thenorthernecho.co.uk/news/18990871.less-blue-badges-people-non-visible-disabilities/) *7 January 2021*
+
 
 The story featured on BBC front, home and England pages. It was also used by BBC Somerset, BBC Radio Shropshire.
 
@@ -55,5 +62,3 @@ The story featured on BBC front, home and England pages. It was also used by BBC
 ## Related repos
 
 You can [find all coronavirus-related stories by the BBC data units tagged 'coronavirus' here](https://github.com/search?q=topic%3Acoronavirus+org%3ABBC-Data-Unit&type=Repositories)
-
-
