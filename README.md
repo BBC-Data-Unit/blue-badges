@@ -57,7 +57,13 @@ Stories written by partners based on this research included:
 * The Guildford Dragon: [No Visible Disability? Not Much Blue Badge Chance in Surrey](https://www.guildford-dragon.com/2021/01/07/no-visible-disability-not-much-blue-badge-chance-in-surrey/) *7 January 2021*
 * Yellow Advertiser: [Blue badge disparity for non visibly disabled in Havering](https://www.yellowad.co.uk/blue-badge-disparity-for-non-visibly-disabled-in-havering/) *7 January 2021*
 * Yorkshire Live: [Kirklees Council refused more than half Blue Badge requests from people with 'non-visible' disabilities](https://www.examinerlive.co.uk/news/west-yorkshire-news/kirklees-council-refused-more-half-19573298) *7 January 2021*
+* Belfast Telegraph: [Concern at lack of disabled bays in council car parks](https://www.belfasttelegraph.co.uk/news/northern-ireland/concern-at-lack-of-disabled-bays-in-council-car-parks-39940027.html) *7 January 2021*
+* Cranfield & Marston Vale Chronicle: [Blue badge permit ‘shocking disparity’ revealed](https://cranfieldandmarstonvale.co.uk/central-beds-council/blue-badge-permit-shocking-disparity-revealed/) *7 January 2021*
+* Midsomer Norton Nub News: [B&NES figures on handing out blue badges ; Figures not as disappointing as other areas under new rules](https://midsomernorton.nub.news/n/blue-badges) *7 January 2021*
 * Rochdale Online: ["Shocking disparity" in number of blue badge permits approved for applicants with non-visible disabilities](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/138561/shocking-disparity-in-number-of-blue-badge-permits-approved-for-applicants-with-nonvisible-disabilities?cmpredirect) *8 January 2021*
+* Carlisle: News & Star: [Carlisle mother: lack of blue badges for invisible disabilities is 'injustice'](https://www.newsandstar.co.uk/news/18994975.carlisle-mother-lack-blue-badges-invisible-disabilities-injustice/) *8 January 2021*
+* Carlisle: Times & Star: [Carlisle mother: lack of blue badges for invisible disabilities is 'injustice'](https://www.timesandstar.co.uk/news/18994976.carlisle-mother-lack-blue-badges-invisible-disabilities-injustice/) *8 January 2021*
+
 
 
 The story featured on BBC front, home and England pages. It was also used by BBC North West Tonight, BBC East Midlands Today, BBC Midlands Today, BBC Look North, BBC Somerset, BBC Radio Shropshire, BBC Radio York, BBC Radio Tees, BBC Radio Leicester, BBC Radio Sheffield, BBC Radio Berkshire, BBC Radio Manchester, BBC CWR, BBC Three Counties Radio, BBC Radio Oxford and BBC Radio Bradford. It also led to a further report for BBC West Midlands online: [Blue badge denied: Stourbridge mum feels 'worthless'](https://www.bbc.co.uk/news/uk-england-birmingham-55579359).
