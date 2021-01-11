@@ -73,12 +73,7 @@ Stories written by partners based on this research included:
 * Chronicle Live: [Criticism over 'postcode lottery' Blue Badge applications for invisible disabilities in North East](https://www.chroniclelive.co.uk/news/north-east-news/blue-badge-disability-postcode-lottery-19586723) *10 January 2021*
 * Surrey Live: [Surrey County Council less likely to give Blue Badge to people with non-visible disabilities](https://www.getsurrey.co.uk/news/surrey-news/surrey-county-council-less-likely-19587393) *11 January 2021*
 
-
 The story featured on BBC front, home and England pages. It was also used by BBC North West Tonight, BBC East Midlands Today, BBC Midlands Today, BBC Look North, BBC Somerset, BBC Radio Shropshire, BBC Radio York, BBC Radio Tees, BBC Radio Leicester, BBC Radio Sheffield, BBC Radio Berkshire, BBC Radio Manchester, BBC CWR, BBC Three Counties Radio, BBC Radio Oxford and BBC Radio Bradford. It also led to a further report for BBC West Midlands online: [Blue badge denied: Stourbridge mum feels 'worthless'](https://www.bbc.co.uk/news/uk-england-birmingham-55579359).
-
-## Other usage
-
-*
 
 ## Related repos
 
