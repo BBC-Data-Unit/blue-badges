@@ -71,8 +71,11 @@ Stories written by partners based on this research included:
 * Northwich Guardian: [Disparity found in Cheshire West blue badge bid approvals](https://www.northwichguardian.co.uk/news/18998082.disparity-found-cheshire-west-blue-badge-bid-approvals/) *8 January 2021*
 * Winsford Guardian: [Disparity found in Cheshire West blue badge bid approvals](https://www.winsfordguardian.co.uk/news/18998086.disparity-found-cheshire-west-blue-badge-bid-approvals/?ref=rss&utm_source=dlvr.it&utm_medium=twitter) *8 January 2021*
 * Frodsham Nub News: [Cheshire West and Chester to 'develop' blue badge scheme following 'shocking disparity' between allocations to people with visible and invisible impairments](https://frodsham.nub.news/n/cheshire-west-and-chester-to-39develop39-blue-badge-scheme-following-39shocking-disparity39-between-allocations-to-people-with-visible-and-invisible-impairments) *8 January 2021*
+* Macclesfield Nub News: [Cheshire East Council defends blue parking badge record](https://macclesfield.nub.news/n/cheshire-east-council-defends-blue-parking-badge-record) *8 January 2021*
 * Nantwich News: [Cheshire East defends record amid claims of blue badge permits disparity](https://thenantwichnews.co.uk/2021/01/09/cheshire-east-defends-record-amid-claims-of-blue-badge-permits-disparity/) *9 January 2021*
+* Crewe Nub News: [Cheshire East Council defends blue badge record for people with 'hidden disabilities'](https://crewe.nub.news/n/cheshire-east-council-defends-blue-badge-record-for-people-with-39hidden-disabilities39) *10 January 2021*
 * Chronicle Live: [Criticism over 'postcode lottery' Blue Badge applications for invisible disabilities in North East](https://www.chroniclelive.co.uk/news/north-east-news/blue-badge-disability-postcode-lottery-19586723) *10 January 2021*
+* Congleton Nub News: [https://congleton.nub.news/n/cheshire-east-council-defends-blue-parking-badge-record](https://congleton.nub.news/n/cheshire-east-council-defends-blue-parking-badge-record) *11 January 2021*
 * Surrey Live: [Surrey County Council less likely to give Blue Badge to people with non-visible disabilities](https://www.getsurrey.co.uk/news/surrey-news/surrey-county-council-less-likely-19587393) *11 January 2021*
 * Cheshire Live: [The Cheshire people with disabilities least likely to get a blue badge](https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-residents-non-visible-disabilities-19572064) *11 January 2021*
 * Gloucestershire Live: [Blue Badges for people with non-visibility disabilities less likely to be handed out in Gloucestershire](https://www.gloucestershirelive.co.uk/news/gloucester-news/blue-badges-people-non-visibility-4874953) *11 January 2021*
@@ -91,6 +94,10 @@ Stories written by partners based on this research included:
 
 
 The story featured on BBC front, home and England pages. It was also used by BBC North West Tonight, BBC East Midlands Today, BBC Midlands Today, BBC Look North, BBC Somerset, BBC Radio Shropshire, BBC Radio York, BBC Radio Tees, BBC Radio Leicester, BBC Radio Sheffield, BBC Radio Berkshire, BBC Radio Manchester, BBC CWR, BBC Three Counties Radio, BBC Radio Oxford and BBC Radio Bradford. It also led to a further report for BBC West Midlands online: [Blue badge denied: Stourbridge mum feels 'worthless'](https://www.bbc.co.uk/news/uk-england-birmingham-55579359).
+
+## Other usage
+
+* Sunday Mirror: [Autistic 'less likely to get blue badges'](https://www.pressreader.com/uk/sunday-mirror/20210110/284752044129517) *10 January 2021*
 
 ## Related repos
 
