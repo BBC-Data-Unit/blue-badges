@@ -92,12 +92,19 @@ Stories written by partners based on this research included:
 * Ardrossan & Saltcoats Herald: [Two applications have been rejected from North Ayrshire Council for Blue Badge extension](https://www.ardrossanherald.com/news/19011210.two-applications-rejected-north-ayrshire-council-blue-badge-extension/) *19 January 2021*
 * Wirral Globe: [BBC blue badge investigation sparks Wirral Council review](https://www.wirralglobe.co.uk/news/19025163.bbc-blue-badge-application-report-sparks-council-review/) *20 January 2021*
 
-
 The story featured on BBC front, home and England pages. It was also used by BBC North West Tonight, BBC East Midlands Today, BBC Midlands Today, BBC Look North, BBC Somerset, BBC Radio Shropshire, BBC Radio York, BBC Radio Tees, BBC Radio Leicester, BBC Radio Sheffield, BBC Radio Berkshire, BBC Radio Manchester, BBC CWR, BBC Three Counties Radio, BBC Radio Oxford and BBC Radio Bradford. It also led to a further report for BBC West Midlands online: [Blue badge denied: Stourbridge mum feels 'worthless'](https://www.bbc.co.uk/news/uk-england-birmingham-55579359).
 
 ## Other usage
 
 * Sunday Mirror: [Autistic 'less likely to get blue badges'](https://www.pressreader.com/uk/sunday-mirror/20210110/284752044129517) *10 January 2021*
+
+## Cited again in September 2024
+
+* The Mirror: [Dad fights for son in 'heartbreaking process' after being rejected 3 times](https://www.mirror.co.uk/news/uk-news/dad-fights-son-heartbreaking-process-33677850)
+* Liverpool Echo: [Dad 'left with no other choice' but to do thing that 'breaks his heart'](https://www.liverpoolecho.co.uk/news/liverpool-news/dad-left-no-choice-thing-29931642)
+* Wales Online: ['I've been rejected for a Blue Badge three times - and it's heartbreaking'](https://www.walesonline.co.uk/news/uk-news/ive-been-rejected-blue-badge-29953916)
+* Birkenhead News: [Wirral dad feels he’s having to fight for Blue Badge](https://www.birkenhead.news/wirral-dad-feels-hes-having-to-fight-for-blue-badge/)
+* MSN News: [Dad 'left with no other choice' but to do thing that 'breaks his heart'](https://www.msn.com/en-gb/health/other/dad-left-with-no-other-choice-but-to-do-thing-that-breaks-his-heart/ar-AA1qDFUY)
 
 ## Related repos
 
